@@ -4,7 +4,7 @@ chrome に MetaMask をインストールし ropstenテストネットワーク�
 1ETHあれば十分です。
 
 
-#　動作させるには
+# 動作させるには
 
 1. [http://remix.ethereum.org/](remix) を起動
 2. new fileから Todo.sol を作成しこのフォルダの Todo.sol のコードを貼り付けコンパイル
